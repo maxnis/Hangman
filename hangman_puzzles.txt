@@ -1,0 +1,18 @@
+1,A SERIES OF UNFORTUNATE EVENTS,A book and television series about three orphaned siblings
+1,HARRY POTTER,A popular book series about an orphaned hero and a magic school
+1,INKHEART,People bringing the characters of a book to life by reading aloud, literally
+1,CORALINE,A black cat; a suspicious doll; and a secret door in a boring house
+1,THE PICTURE OF DORIAN GRAY,A classic book about hedonism and eternal youth
+1,THE HUNGER GAMES,A dystopian trilogy about a brutal game in which contestants fight to live
+2,FOAMING AT THE MOUTH,An English idiom meaning being visibly enraged
+2,CURIOSITY KILLED THE CAT,An English idiom that indicates further inquiry may lead to harm
+2,PIECE OF CAKE,An English idiom meaning that something is easy to accomplish
+2,HARD PILL TO SWALLOW,An English idiom meaning something that is difficult to accept
+2,ELEPHANT IN THE ROOM,An English idiom meaning ignoring an obvious problem 
+2,HEAD OVER HEELS,An English idiom meaning falling deeply in love with another person
+3,QUEEN,A rock band formed in the 1970s that is named after a monarch 
+3,THE CURE,A New-wave Gothic rock band who's name includes a synonym for "heal"
+3,THE RUNAWAYS,An all female American punk rock band depicted in a 2010 movie
+3,BIKINI KILL,An American punk rock band that is one of the pioneers of the Riot Grrrl movement
+3,BLONDIE,A New-wave rock band who's name is similar to that of pale yellow hair
+3,FLEETWOOD MAC,A British-American rockband of the late 1960s with a famous "gossip" album
